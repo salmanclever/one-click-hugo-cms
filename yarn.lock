@@ -2832,17 +2832,18 @@ glogg@^1.0.0:
   dependencies:
     sparkles "^1.0.0"
 
-gotrue-js@^0.9.1:
-  version "0.9.13"
-  resolved "https://registry.yarnpkg.com/gotrue-js/-/gotrue-js-0.9.13.tgz#99041d0a5e88a838ae479993412e27a5cd8c3850"
-  dependencies:
-    micro-api-client "^3.2.0"
-
 gotrue-js@^0.9.15:
   version "0.9.15"
   resolved "https://registry.yarnpkg.com/gotrue-js/-/gotrue-js-0.9.15.tgz#ccddda083ba8fc75572c7e7817556be2b09b3ab4"
   dependencies:
     micro-api-client "^3.2.0"
+
+gotrue-js@^0.9.28:
+  version "0.9.28"
+  resolved "https://registry.yarnpkg.com/gotrue-js/-/gotrue-js-0.9.28.tgz#06ec761dcc10eab68aec165355e3cb8ab44dc4ec"
+  integrity sha512-k30SdA3Uy/hWdGmi6aRB4lGV2S9fUahHHtPHoL3Lzptq32LOJGS/v6NRdwKRAoHUkUJBS9cYiJq8s8xCrwP/Zw==
+  dependencies:
+    micro-api-client "^3.2.1"
 
 graceful-fs@^3.0.0:
   version "3.0.11"
@@ -4279,6 +4280,11 @@ memory-fs@^0.4.0, memory-fs@~0.4.1:
 micro-api-client@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/micro-api-client/-/micro-api-client-3.2.0.tgz#5ea1fd708bd9b31c21004d29af2ece39466a3ebb"
+
+micro-api-client@^3.2.1:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/micro-api-client/-/micro-api-client-3.3.0.tgz#52dd567d322f10faffe63d19d4feeac4e4ffd215"
+  integrity sha512-y0y6CUB9RLVsy3kfgayU28746QrNMpSm9O/AYGNsBgOkJr/X/Jk0VLGoO8Ude7Bpa8adywzF+MzXNZRFRsNPhg==
 
 micromatch@2.3.11, micromatch@^2.1.5, micromatch@^2.3.7:
   version "2.3.11"
